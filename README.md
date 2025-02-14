@@ -21,7 +21,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ## 📂 Projects
 Here are a few projects I've worked on:
-- [Project 1](https://github.com/12PhilL/project-1): Brief description of project 1.
+- [Project Arcstrikes](https://12phill.github.io/Arcstrikes-Project/): Brief description of project 1.
 
 
 ## 🌐 Connect with Me
