@@ -11,7 +11,10 @@ I'm a passionate software developer with a love for creating innovative solution
 - ⚡ Fun fact: I love movies and music.
 
 ## 🛠️ Technologies & Tools
-- Programming Languages: JavaScript, Python, Java
+- Programming Languages: JavaScript, HTML, CSS, Java
+- Web Development: Angular.
+- Databases: PostgreSQL, MySQL.
+- DevOps: Docker.
 - Version Control: Git, GitHub
 
 ## 📈 GitHub Stats
